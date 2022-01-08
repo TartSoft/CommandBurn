@@ -1,2 +1,2 @@
-# CommandBurn
-Using BurnDisk.exe util to Burn files in command-line
+# ISOBurn
+Using isoburn.exe built-in util to Burn .iso files in command-line
